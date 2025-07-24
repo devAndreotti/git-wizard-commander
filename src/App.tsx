@@ -16,7 +16,7 @@ const App = () => (
       <ProgressProvider>
         <Toaster />
         <Sonner />
-        <BrowserRouter>
+        <BrowserRouter basename="/git-wizard-commander">
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/knowledge-base" element={<GitKnowledgeBase />} />
