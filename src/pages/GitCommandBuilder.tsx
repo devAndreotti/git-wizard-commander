@@ -437,7 +437,7 @@ export default function GitCommandBuilder() {
                 <div className="flex flex-col lg:flex-row justify-between items-center gap-4">
                   <div className="text-center lg:text-left">
                     <p className="text-sm text-muted-foreground">
-                      © 2024 Git Command Builder - Desenvolvido com ❤️ para a comunidade
+                      © 2025 Git Command Builder - Desenvolvido com ☕ para a comunidade
                     </p>
                     <p className="text-xs text-muted-foreground/60">
                       Todas as funcionalidades são gratuitas e open-source
