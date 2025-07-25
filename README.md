@@ -1,8 +1,8 @@
 # 🧙‍♂️ Git Wizard Commander - Seu Guia Interativo para o Git!
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/git-wizard-commander?color=FFF&labelColor=802932&style=flat-square">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/git-wizard-commander?color=FFF&labelColor=802932&style=flat-square">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=336699&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/git-wizard-commander?color=FFF&labelColor=bc6dff&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/git-wizard-commander?color=FFF&labelColor=5f95ff&style=flat-square">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=09bbff&style=flat-square">
 </p>
 
 <div align="center">
