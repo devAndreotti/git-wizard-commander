@@ -6,14 +6,14 @@
 </p>
 
 <div align="center">
-  <img src="./public/img/project.png" alt="Captura de tela do Git Wizard Commander">
+  <img src="./public/img/project-01.png" alt="Captura de tela do Git Wizard Commander">
 </div>
 
 ## 📋 Sobre o Projeto
 O **Git Wizard Commander** é uma plataforma web que facilita o uso e o aprendizado do Git por meio de uma interface interativa e visualmente moderna. Com foco em comandos práticos, quizzes e dicas, a aplicação oferece uma jornada intuitiva para dominar o Git — ideal para iniciantes e desenvolvedores que buscam padronização e produtividade.
 
 ## 🌐 Visualize o Projeto
-👉 [**Git Wizard Commander**](https://preview--git-wizard-commander-34.lovable.app/)
+👉 [**Git Wizard Commander**](https://devandreotti.github.io/git-wizard-commander/)
 
 ## ⚙️ Funcionalidades Principais
 * **Construtor de Comandos Git**: Monte comandos passo a passo com base em ações reais do Git.
@@ -89,11 +89,11 @@ npm run dev
 
 ## 🔄 Outras Fotos
 <div align="center">
-  <img src="./modal-02.png" alt="Modal Saúde" width="1000" style="display: block;">
-  <img src="./modal-03.png" alt="Modal Apoiadores" width="1000" style="display: block;">
-  <img src="./privacidade.png" alt="Página da Política de Privacidade" width="1000" style="display: block;">
-  <img src="./menu.png" alt="Menu da Página Aberto" width="1000" style="display: block;">
-  <img src="./erro-envio.png" alt="Erro ao Enviar Mensagem" width="1000" style="display: block;">
+  <img src="./public/img/project-01.png" alt="Captura de tela do Git Wizard Commander" width="1000" style="display: block;">
+  <img src="./public/img/project-02.png" alt="Captura de tela do Git Wizard Commander" width="1000" style="display: block;">
+  <img src="./public/img/project-03.png" alt="Captura de tela do Git Wizard Commander" width="1000" style="display: block;">
+  <img src="./public/img/project-04.png" alt="Captura de tela do Git Wizard Commander" width="1000" style="display: block;">
+  <img src="./public/img/project-05.png" alt="Captura de tela do Git Wizard Commander" width="1000" style="display: block;">
 </div>
 
 ## 💪 Como Contribuir
