@@ -1,4 +1,4 @@
-# 🧙‍♂️ Git Wizard Commander - Seu Guia Interativo para o Git!
+# 🧙‍♂️ Git Wizard Commander - Guia Interativo para Git!
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/git-wizard-commander?color=FFF&labelColor=bc6dff&style=flat-square">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/git-wizard-commander?color=FFF&labelColor=5f95ff&style=flat-square">
