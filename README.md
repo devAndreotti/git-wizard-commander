@@ -89,11 +89,11 @@ npm run dev
 
 ## 🔄 Outras Fotos
 <div align="center">
-  <img src="./public/img/project-01.png" alt="Captura de tela do Git Wizard Commander" width="1000" style="display: block;">
-  <img src="./public/img/project-02.png" alt="Captura de tela do Git Wizard Commander" width="1000" style="display: block;">
-  <img src="./public/img/project-03.png" alt="Captura de tela do Git Wizard Commander" width="1000" style="display: block;">
-  <img src="./public/img/project-04.png" alt="Captura de tela do Git Wizard Commander" width="1000" style="display: block;">
-  <img src="./public/img/project-05.png" alt="Captura de tela do Git Wizard Commander" width="1000" style="display: block;">
+  <img src="./public/img/project-01.png" alt="Captura de tela do Git Wizard Commander" width="700" style="display: block;">
+  <img src="./public/img/project-02.png" alt="Captura de tela do Git Wizard Commander" width="700" style="display: block;">
+  <img src="./public/img/project-03.png" alt="Captura de tela do Git Wizard Commander" width="700" style="display: block;">
+  <img src="./public/img/project-04.png" alt="Captura de tela do Git Wizard Commander" width="700" style="display: block;">
+  <img src="./public/img/project-05.png" alt="Captura de tela do Git Wizard Commander" width="700" style="display: block;">
 </div>
 
 ## 💪 Como Contribuir
