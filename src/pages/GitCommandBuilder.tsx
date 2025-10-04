@@ -6,7 +6,14 @@ import { GitCommandExplainer } from "@/components/GitCommandExplainer";
 import { GitQuizzes } from "@/components/GitQuizzes";
 import { GitProgressTracker } from "@/components/GitProgressTracker";
 import { GitTipsOfTheDay } from "@/components/GitTipsOfTheDay";
-import { SplineBackground } from "@/components/SplineBackground";
+import { lazy, Suspense } from "react";
+
+// Lazy load do background 3D para melhor performance
+const SplineBackground = lazy(() => 
+  import("@/components/SplineBackground").then(module => ({ 
+    default: module.SplineBackground 
+  }))
+);
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -59,8 +66,12 @@ export default function GitCommandBuilder() {
 
   return (
     <>
-      {/* Fundo Spline Interativo */}
-      <SplineBackground />
+      {/* Background 3D otimizado com lazy loading */}
+      <Suspense fallback={
+        <div className="fixed inset-0 w-full h-full z-0 bg-gradient-to-br from-background via-background/95 to-background/90" />
+      }>
+        <SplineBackground />
+      </Suspense>
       
       {/* Conteúdo Principal */}
       <div className="relative z-10 min-h-screen">
