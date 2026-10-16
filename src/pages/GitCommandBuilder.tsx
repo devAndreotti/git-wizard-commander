@@ -187,14 +187,14 @@ export default function GitCommandBuilder() {
           {/* Git Quizzes Section */}
           <div className="space-y-8">
             <div className="text-center animate-fade-in-up" style={{ animationDelay: '0.7s' }}>
-              <div className="inline-flex items-center gap-3 mb-4">
-                <div className="w-12 h-1 bg-gradient-to-r from-transparent to-cyber-orange"></div>
+              <div className="inline-flex max-w-full flex-wrap items-center justify-center gap-3 mb-4">
+                <div className="hidden sm:block w-12 h-1 bg-gradient-to-r from-transparent to-cyber-orange"></div>
                 <Target className="w-8 h-8 text-cyber-orange animate-pulse" />
                 <h2 className="text-3xl font-bold text-cyber-orange neon-text">
                   Desafios & Quizzes
                 </h2>
                 <Target className="w-8 h-8 text-cyber-orange animate-pulse" />
-                <div className="w-12 h-1 bg-gradient-to-l from-transparent to-cyber-orange"></div>
+                <div className="hidden sm:block w-12 h-1 bg-gradient-to-l from-transparent to-cyber-orange"></div>
               </div>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
                 Teste seus conhecimentos sobre Git com nossos desafios interativos
@@ -209,14 +209,14 @@ export default function GitCommandBuilder() {
           {/* Progress Overview Section */}
           <div className="space-y-8">
             <div className="text-center animate-fade-in-up" style={{ animationDelay: '1.0s' }}>
-              <div className="inline-flex items-center gap-3 mb-4">
-                <div className="w-12 h-1 bg-gradient-to-r from-transparent to-cyber-blue"></div>
+              <div className="inline-flex max-w-full flex-wrap items-center justify-center gap-3 mb-4">
+                <div className="hidden sm:block w-12 h-1 bg-gradient-to-r from-transparent to-cyber-blue"></div>
                 <TrendingUp className="w-8 h-8 text-cyber-blue animate-float" />
                 <h2 className="text-3xl font-bold text-cyber-blue neon-text">
                   Progresso & Aprendizado
                 </h2>
                 <TrendingUp className="w-8 h-8 text-cyber-blue animate-float" />
-                <div className="w-12 h-1 bg-gradient-to-l from-transparent to-cyber-blue"></div>
+                <div className="hidden sm:block w-12 h-1 bg-gradient-to-l from-transparent to-cyber-blue"></div>
               </div>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
                 Acompanhe seu desenvolvimento e descubra dicas valiosas
@@ -231,14 +231,14 @@ export default function GitCommandBuilder() {
           {/* Advanced Commands Section */}
           <div className="space-y-8">
             <div className="text-center animate-fade-in-up" style={{ animationDelay: '1.3s' }}>
-              <div className="inline-flex items-center gap-3 mb-4">
-                <div className="w-12 h-1 bg-gradient-to-r from-transparent to-cyber-green"></div>
+              <div className="inline-flex max-w-full flex-wrap items-center justify-center gap-3 mb-4">
+                <div className="hidden sm:block w-12 h-1 bg-gradient-to-r from-transparent to-cyber-green"></div>
                 <Zap className="w-8 h-8 text-cyber-green animate-glow-pulse" />
                 <h2 className="text-3xl font-bold text-cyber-green neon-text">
                   Comandos Avançados
                 </h2>
                 <Zap className="w-8 h-8 text-cyber-green animate-glow-pulse" />
-                <div className="w-12 h-1 bg-gradient-to-l from-transparent to-cyber-green"></div>
+                <div className="hidden sm:block w-12 h-1 bg-gradient-to-l from-transparent to-cyber-green"></div>
               </div>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
                 Explore comandos Git avançados, gerencie histórico e exporte scripts
